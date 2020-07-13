@@ -11,3 +11,17 @@ body {
     border-radius: 5px;
     margin-top: 100px;
 }
+
+.table td
+ {
+    vertical-align: middle;
+}
+.table{
+        table-layout:fixed;
+         width: 100%;
+
+
+}
+.container {
+    max-width: 850px;
+}
